@@ -14,7 +14,7 @@ export default function  CardHoverText(){
             <Styled.Img src={img1}/>
             <Styled.Info>
                 <Styled.Title>Planejamento</Styled.Title>
-                <Styled.Text>Pleneje viagens, eventos e destinos de acordo com suas preferências</Styled.Text>
+                <Styled.Text>Planeje viagens, eventos e destinos de acordo com suas preferências</Styled.Text>
             </Styled.Info>
         </Styled.Card>
         <Styled.Card>

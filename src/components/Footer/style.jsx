@@ -5,8 +5,12 @@ display: flex;
 background-color: var(--bg-secondary);
 justify-content: center;
 align-items:center;
+flex-wrap:wrap;
 `;
-
+export const Flex = styled.p`
+display:flex;
+align-items:baseline;
+`;
 export const FooterText = styled.p`
   opacity:.3;
   font-weight:400;
