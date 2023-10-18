@@ -68,7 +68,7 @@ export default function AboutUs() {
               <Styled.Name>Vinicius Torres</Styled.Name>
               <Styled.Experience>QA & PO</Styled.Experience>
               <Styled.Icons>
-                <a href="www.linkedin.com/in/vinicius-alves-torres" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/vinicius-alves-torres" target="_blank" rel="noopener noreferrer">
                   <Styled.LinkedinIcon/>
                 </a>
                 <a href="https://github.com/ViniciusAlvesTorres" target="_blank" rel="noopener noreferrer">
