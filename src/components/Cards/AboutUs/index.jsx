@@ -34,7 +34,7 @@ export default function AboutUs() {
               <Styled.Name>Gabriel da Silva</Styled.Name>
               <Styled.Experience>Fullstack</Styled.Experience>
               <Styled.Icons>
-                <a href="https://www.linkedin.com/in/seu-perfil-do-linkedin" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/gabriel-joao/" target="_blank" rel="noopener noreferrer">
                   <Styled.LinkedinIcon/>
                 </a>
                 <a href="https://github.com/gjoao98" target="_blank" rel="noopener noreferrer">
@@ -51,7 +51,7 @@ export default function AboutUs() {
               <Styled.Name>Leandro Alves</Styled.Name>
               <Styled.Experience>Fullstack</Styled.Experience>
               <Styled.Icons>
-                <a href="https://www.linkedin.com/in/seu-perfil-do-linkedin" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/leandrobraga1/" target="_blank" rel="noopener noreferrer">
                   <Styled.LinkedinIcon/>
                 </a>
                 <a href="https://github.com/bragaLeandro" target="_blank" rel="noopener noreferrer">
@@ -85,7 +85,7 @@ export default function AboutUs() {
               <Styled.Name>Vinicius Yuji</Styled.Name>
               <Styled.Experience>Fullstack</Styled.Experience>
               <Styled.Icons>
-                <a href="https://www.linkedin.com/in/seu-perfil-do-linkedin" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/yuji-nishioka/" target="_blank" rel="noopener noreferrer">
                   <Styled.LinkedinIcon/>
                 </a>
                 <a href="https://github.com/yujinishioka" target="_blank" rel="noopener noreferrer">
