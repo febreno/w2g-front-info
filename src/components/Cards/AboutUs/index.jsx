@@ -20,7 +20,7 @@ export default function AboutUs() {
               <a href="https://www.linkedin.com/in/felipe-sugisawa/" target="_blank" rel="noopener noreferrer">
                 <Styled.LinkedinIcon/>
               </a>
-              <a href="https://github.com/febreno" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/febrenos" target="_blank" rel="noopener noreferrer">
                 <Styled.GitHubIcon/>
               </a>
               </Styled.Icons>
