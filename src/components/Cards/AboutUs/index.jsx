@@ -31,7 +31,7 @@ export default function AboutUs() {
           <Styled.UserImage src={Gabriel}/>
           <div>
             <Styled.Content>
-              <Styled.Name>Gabriel da Silva</Styled.Name>
+              <Styled.Name>Gabriel João</Styled.Name>
               <Styled.Experience>Fullstack</Styled.Experience>
               <Styled.Icons>
                 <a href="https://www.linkedin.com/in/gabriel-joao/" target="_blank" rel="noopener noreferrer">
@@ -82,7 +82,7 @@ export default function AboutUs() {
           <Styled.UserImage src={Yujin}/>
           <div>
             <Styled.Content>
-              <Styled.Name>Vinicius Yuji</Styled.Name>
+              <Styled.Name>Yuji Nishioka</Styled.Name>
               <Styled.Experience>Fullstack</Styled.Experience>
               <Styled.Icons>
                 <a href="https://www.linkedin.com/in/yuji-nishioka/" target="_blank" rel="noopener noreferrer">
