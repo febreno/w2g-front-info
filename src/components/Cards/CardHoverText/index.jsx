@@ -7,7 +7,7 @@ import img3 from '../../../img/timelineAmico.png'
 import * as Styled from './style.jsx';
 
 
-export default function  CardHoverText(){
+export default function CardHoverText(){
   return (
     <Styled.Wrapper>
         <Styled.Card>

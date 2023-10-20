@@ -50,6 +50,13 @@ export const Card = styled.div`
   &:hover:before {
     opacity: 0.9;
   }
+
+  @media(width < 768px){
+    transform: translateY(20px);
+    &:before {
+      opacity: 0.9;
+    }
+  }
 `;
 
 export const Img = styled.img`
@@ -64,12 +71,17 @@ export const Img = styled.img`
 export const Info = styled.div`
   position: relative;
   z-index: 3;
-  color: #fff;
+  color: var(--txt-title);
   opacity: 0;
   transform: translateY(30px);
   transition: 0.5s all;
   
   ${Card}:hover & {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+
+  @media(width < 768px){
     opacity: 1;
     transform: translateY(0px);
   }

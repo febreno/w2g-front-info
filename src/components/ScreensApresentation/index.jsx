@@ -1,5 +1,4 @@
 import React from "react";
-import Alertinvite from '../../img/screens/alertInvite.png'
 import AlertRain from '../../img/screens/alertRain.png'
 import AlertTripChange from '../../img/screens/alertTripChange.png'
 import Calendar from '../../img/screens/calendar.png'

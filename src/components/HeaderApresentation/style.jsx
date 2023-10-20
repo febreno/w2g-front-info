@@ -34,7 +34,11 @@ export const Links = styled.div`
     }
     & > *{
         cursor:pointer;
+        &:hover{
+            color:var(--txt-title);
+        }
     }
+    
 `
 
 

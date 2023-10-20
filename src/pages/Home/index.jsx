@@ -5,6 +5,7 @@ import TextApresentation from '../../components/TitleApresentation'
 import ScreenApresentation from '../../components/ScreensApresentation'
 import Fiap from '../../../src/img/fiap.png'
 import Plusoft from '../../img/plusoft.png'
+import Neurotrix from '../../img/neurotrix.png'
 import CardHoverText from '../../components/Cards/CardHoverText'
 import AboutUs from '../../components/Cards/AboutUs'
 import BackgroundColor from '../../components/BackgroundColor'
@@ -27,10 +28,11 @@ export default function Home() {
             <CardApresentation text="Sobre" ref={sobreRef} />
             <CardHoverText/>
             <Styled.Center>
-                <Styled.Title ref={parceriasRef}>Parcerias</Styled.Title>
+                <Styled.Title ref={parceriasRef}>Oferecimento</Styled.Title>
                 <Styled.Sponsors>
                     <Styled.Img src={Fiap}/>
                     <Styled.Img src={Plusoft}/>
+                    <Styled.Img src={Neurotrix}/>
                 </Styled.Sponsors>
             </Styled.Center>
             <Styled.Center>
