@@ -6,6 +6,8 @@ import ScreenApresentation from '../../components/ScreensApresentation'
 import Fiap from '../../../src/img/fiap.png'
 import Plusoft from '../../img/plusoft.png'
 import Neurotrix from '../../img/neurotrix.png'
+import chatGpt from '../../img/chatGpt.png'
+import googlePlaces from '../../img/googlePlaces.png'
 import CardHoverText from '../../components/Cards/CardHoverText'
 import AboutUs from '../../components/Cards/AboutUs'
 import BackgroundColor from '../../components/BackgroundColor'
@@ -33,6 +35,8 @@ export default function Home() {
                     <Styled.Img src={Fiap}/>
                     <Styled.Img src={Plusoft}/>
                     <Styled.Img src={Neurotrix}/>
+                    <Styled.Img src={chatGpt}/>
+                    <Styled.Img src={googlePlaces}/>
                 </Styled.Sponsors>
             </Styled.Center>
             <Styled.Center>
