@@ -12,7 +12,7 @@ export default function() {
             <Styled.Title>Tenha um planejamento de viagem personalizado</Styled.Title>
             <Styled.SubTitle>Crie experiências de viagens únicas e inesquecíveis</Styled.SubTitle>
             <Styled.Margin>
-                <Button text={"Começar Jornada! (em manutençao)"} size={"md"} background={"var(--primary-color)"} onClick={openLink}/>
+                <Button text={"Começar Jornada! (em manutenção)"} size={"md"} background={"var(--primary-color)"} onClick={openLink}/>
             </Styled.Margin>
         </Styled.Content>
     )
