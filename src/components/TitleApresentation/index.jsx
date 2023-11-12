@@ -4,7 +4,7 @@ import * as Styled from './style.jsx';
 
 export default function() {
     function openLink(){
-        window.open('https://where2go.website/SignIn', '_blank');
+        window.open('https://where2go.website/sign-in', '_blank');
       };
       
     return(
