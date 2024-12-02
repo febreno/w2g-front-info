@@ -4,7 +4,7 @@ import * as Styled from './style.jsx';
 
 export default function() {
     function openLink(){
-        window.open('https://where2go.website/sign-in', '_blank');
+        window.open('https://w2g-website.vercel.app/sign-in', '_blank');
       };
       
     return(
